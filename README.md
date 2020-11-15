@@ -7,10 +7,10 @@ ETL stands for extract, transform, load. It is a process of moving the data from
 
 Source & Destination here can be Databases, Warehouse, Cloud etc.
 
-Objective:
+##### Objective:
 Extracting data from PostgreSQL database, apply data modeling and loading it back to the PostgreSQL database.
 
-Topics covered:
+##### Topics covered:
   * Database connectivity in python
   * Data modeling in python
 
