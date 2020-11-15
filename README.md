@@ -11,8 +11,8 @@ Objective:
 Extracting data from PostgreSQL database, apply data modeling and loading it back to the PostgreSQL database.
 
 Topics covered:
-  •	Database connectivity in python
-  •	Data modeling in python
+  * Database connectivity in python
+  * Data modeling in python
 
 Data Modeling:
 Data modeling is building the structure of the database, how data is stored, organized and manipulated.
