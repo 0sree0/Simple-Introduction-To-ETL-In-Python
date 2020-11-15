@@ -18,8 +18,8 @@ Extracting data from PostgreSQL database, apply data modeling and loading it bac
 Data modeling is building the structure of the database, how data is stored, organized and manipulated.
 
 There are two types of data modeling:
-  •	Star schema
-  •	Snowflake schema
+  * Star schema
+  * Snowflake schema
 
 Star schema is applied in the transformation phase.
 
