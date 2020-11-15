@@ -29,7 +29,7 @@ The data available in PostgreSQL is a retail data.
 This data is sample generated data using python.
 It consists of 36070 rows and 15 columns. There 36070 distinct customers. It comprises of 3 years of data from 2017 to 2019. There are 5 products, each of product has 3 sub products. It operates in 4 locations. Each Location has 10 stores.
 
-![](https://github.com/0sree0/Simple-Introduction-To-ETL-In-Python/blob/main/Retail%20Data%20Overview.png)
+![](https://github.com/0sree0/Simple-Introduction-To-ETL-In-Python/blob/main/Retail.xlsx)
 
 ##### Extraction Phase:
 Connecting to Postgres SQL using python and extracting the data. 
